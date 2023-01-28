@@ -1,5 +1,5 @@
 # Cryptowallets
-Background
+##Background
 You work at a startup that’s building a new and disruptive application named KryptoJobs2Go (a fictitious application). Your customers can use KryptoJobs2Go to find fintech professionals from a list of candidates, hire them, and then pay them. As the lead developer, you’ve been tasked with integrating the Ethereum blockchain network into the application. The purpose is to enable the customers to instantly pay their hired fintech professionals with cryptocurrency.
 
 What You're Creating
@@ -11,7 +11,7 @@ A README.md file that includes screenshots to confirm that by assuming the role 
 Files
 Download the following files to help you get started:
 
-Module 19 Challenge files
+crypto_wallet.py and krypto_jobs.py files
 Instructions
 The instructions for this Challenge are divided into the following high-level steps:
 
